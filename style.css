@@ -83,9 +83,8 @@ a {
 }
 
 .logo {
-  font-size: 18px;
+  font-size: 20px;
   position: relative;
-  top: 5px;
   color: white;
   display: inline-block;
 }
@@ -99,8 +98,8 @@ a {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
   font-weight: bold;
+  font-size: 20px;
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 50%;
@@ -115,6 +114,7 @@ a {
   margin-bottom: 30px;
   margin-left: 3px;
   font-family: sans-serif;
+  font-size: 20px;
 }
 
 .child {
@@ -154,7 +154,7 @@ a {
 
 .heading2 {
   color: #00A5EC;
-  font-size: 16px;
+  font-size: 20px;
   margin-left: 10%;
 }
 
@@ -164,13 +164,13 @@ a {
   display: inline-block;
   margin-top: 15px;
   margin-bottom: 15px;
-  font-size: 15px;
+  font-size: 16px;
   position: relative;
   bottom: 1px;
 }
 
 .lable1 {
-  font-size: 15px;
+  font-size: 16px;
   position: relative;
   bottom: 1px;
 }
@@ -253,32 +253,35 @@ hr {
 
 .back {
   display: inline-block;
+  font-size: 20px;
 }
 
 .arrow {
   background-color: black;
   color: white;
   border-radius: 50%;
-  font-size: 15px;
+  font-size: 20px;
+  font-weight: bold;
   padding: 4px;
   margin-left: 280px;
   position: relative;
-  top: 5px;
 }
 
 .add {
   display: inline-block;
+  font-size: 20px;
+  margin-left: -33px;
 }
 
 .pluss {
   background-color: #00A5EC;
   color: white;
   border-radius: 50%;
-  font-size: 15px;
+  font-size: 20px;
+  font-weight: bold;
   padding: 6px;
   margin-left: 120px;
   position: relative;
-  top: 6px;
 }
 
 .child1 {
@@ -289,7 +292,7 @@ hr {
   border-radius: 5px;
   background-color: white; 
   font-family: sans-serif;
-  margin-top: 40px;
+  margin-top: 35px;
   margin-left: 270px;
 }
 
